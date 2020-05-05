@@ -1,0 +1,188 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
+.navigation{
+    height: 50px;
+    border-bottom: 1px solid red;
+}
+.container{
+    width: 75%;
+    margin: auto;
+}
+.navBar{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.navBar > h1{
+    font-size: 32px;
+    font-weight: normal;
+}
+.navBar > nav > ul{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    list-style: none;
+}
+.navBar > nav > ul > li > a{
+    color: #444;
+    font-size: 20px;
+    font-weight: 500;
+}
+.showcase{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+}
+
+.showcase > .left-side{
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.showcase > .right-side{
+    height: 550px;
+    background-image: url(images/graphic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.showcase > .left-side > h2{
+    margin-top: 10px;
+    font-size: 72px !important;
+    color: #333;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.showcase > .left-side > h4{
+    margin-top: 30px;
+    font-size: 24px;
+    color: #111;
+    font-weight: 400;
+}
+.gallery{
+    background-color: rgba(200,200,200,0.9);
+    padding: 15px 0px;
+}
+.gallery > .container > h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 520;
+    text-align: center;
+}
+.logoGallery{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 15px;
+}
+.logoStyle{
+    border: 1px solid #ccc;
+    height: 240px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.4);
+    background-color: rgba(255,255,255,0.8);
+    cursor: pointer;
+    transition: all ease-in-out 0.5s;
+    display: block;
+}
+.logoStyle:hover{
+    transform: scale(1.04);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.6);
+}
+.logoStyle > .logoImg{
+    height: 200px;
+    width: 100%;
+}
+.logoStyle  .logoImg > img{
+    height: 200px;
+    width: 100%;
+}
+.logoStyle h4{
+    color: #222;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+}
+/* clients comments */
+.client-container{
+    width: 100%;
+    margin: auto;
+    border: 2px solid #2bc;
+    padding: 25px 0px;
+    background: url(https://images.pexels.com/photos/3584924/pexels-photo-3584924.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.slick-slider{
+    width: 50%;
+    margin: auto;
+    border: 2px solid #444;
+    background: rgba(0,0,0,0.8);
+    padding: 10px 50px;
+    color: #fff;
+}
+.slick-list{
+    padding: 15px;
+}
+.slick-prev:before, .slick-next:before{
+    color: #444 !important;
+    font-size: 24px !important;
+}
+.slick-prev{
+    left: -35px !important;
+}
+.slick-next{
+    right: -30px !important;
+}
+.img > img{
+    padding: 10px 15px;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
+.img > .text{
+    text-align: center;
+}
+/*About */
+.about{ 
+    padding: 20px 0;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    background-image: url(images/about-us-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.inner{
+    background-color: rgba(0,0,0,0.5);
+}
+.about h3{
+    color: #fff;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+}
+.about h5{
+    color: #fff;
+    width: 70%;
+    margin: auto;
+    font-size: 24px;
+    text-align: justify;
+    line-height: 1.2;
+    font-weight: 500;
+}
+.about > h5{
+    padding-top: 20px;
+}
+.contact{
+    margin-top: 5px;
+    background-color: rgba(50,50,50,0.8);
+    padding: 10px;
+}
