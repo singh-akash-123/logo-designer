@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38f84917859f5189f3990ded09270252",
+    "revision": "ce7d643e9d7a998a031b56f7c4e71f87",
     "url": "/logo-designer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/logo-designer/static/css/2.901522a5.chunk.css"
   },
   {
-    "revision": "77fadfc511feebc8fa74",
+    "revision": "049678a8b7d68aadc584",
     "url": "/logo-designer/static/css/main.11205016.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/logo-designer/static/js/2.04808d33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77fadfc511feebc8fa74",
-    "url": "/logo-designer/static/js/main.587c6be1.chunk.js"
+    "revision": "049678a8b7d68aadc584",
+    "url": "/logo-designer/static/js/main.2349adc3.chunk.js"
   },
   {
     "revision": "8d7f7fb105a5983c4e7d",
