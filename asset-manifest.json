@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/logo-designer/static/css/main.11205016.chunk.css",
+    "main.js": "/logo-designer/static/js/main.587c6be1.chunk.js",
+    "main.js.map": "/logo-designer/static/js/main.587c6be1.chunk.js.map",
+    "runtime-main.js": "/logo-designer/static/js/runtime-main.cc2065af.js",
+    "runtime-main.js.map": "/logo-designer/static/js/runtime-main.cc2065af.js.map",
+    "static/css/2.901522a5.chunk.css": "/logo-designer/static/css/2.901522a5.chunk.css",
+    "static/js/2.04808d33.chunk.js": "/logo-designer/static/js/2.04808d33.chunk.js",
+    "static/js/2.04808d33.chunk.js.map": "/logo-designer/static/js/2.04808d33.chunk.js.map",
+    "index.html": "/logo-designer/index.html",
+    "precache-manifest.b627ef07ab767b935f2a683a5863d5e6.js": "/logo-designer/precache-manifest.b627ef07ab767b935f2a683a5863d5e6.js",
+    "service-worker.js": "/logo-designer/service-worker.js",
+    "static/css/2.901522a5.chunk.css.map": "/logo-designer/static/css/2.901522a5.chunk.css.map",
+    "static/css/main.11205016.chunk.css.map": "/logo-designer/static/css/main.11205016.chunk.css.map",
+    "static/js/2.04808d33.chunk.js.LICENSE.txt": "/logo-designer/static/js/2.04808d33.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/logo-designer/static/media/graphic.c6a2c0ff.jpg",
+    "static/media/slick-theme.css": "/logo-designer/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc2065af.js",
+    "static/css/2.901522a5.chunk.css",
+    "static/js/2.04808d33.chunk.js",
+    "static/css/main.11205016.chunk.css",
+    "static/js/main.587c6be1.chunk.js"
+  ]
+}
