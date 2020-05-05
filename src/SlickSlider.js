@@ -15,7 +15,7 @@ export default class SimpleSlider extends Component {
       {
         id: 2,
         name: "Ganesh Sawant",
-        img: "images/Ganesh.jpg",
+        img: "/images/Ganesh.jpg",
         comment: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
       },
       {
