@@ -7,7 +7,7 @@ class Gallery extends Component{
         const ImgList = [
             {
                 id: 1,
-                src: "/images/1-4.png",
+                src: "images/1-4.png",
                 name: "Eortica web solution"
             },
             {
